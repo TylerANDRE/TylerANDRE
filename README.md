@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a 2D Platformer 
 - 📫 You can reach me via email: tylerrobertson805@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy Playing simulator games
+- ⚡ Fun fact: I enjoy playing simulator games
 
 <!---
 TylerANDRE/TylerANDRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
